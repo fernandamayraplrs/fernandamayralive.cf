@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-botpixlucrativo.com	TRUE	/	FALSE	1999999999	elementor_split_test_5_variation	10
-botpixlucrativo.com	TRUE	/	FALSE	1999999999	elementor_split_test_client_id	64b0d39cd-5985038d-df72-4c45-b83a-3aa302d7c0cd
-
